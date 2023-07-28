@@ -1,0 +1,27 @@
+ul {
+    list-style-type: none;
+    width: 100%;
+    margin: 20px;
+}
+
+li {
+    display: inline;
+    padding: 40px;
+    margin-top: 20px;
+}
+
+nav{
+    width: 100%;
+    background-color: #D3D3D3;
+    height: auto;
+}
+
+.myLinks li a {
+    color: black;
+    font-family: 'Abril Fatface', cursive;
+    font-size: 22pt;
+}
+
+
+
+
