@@ -2,7 +2,9 @@ import React from 'react'
 
 function Blue() {
   return (
-    <div>Blue</div>
+    <div id="blue">
+        <h1>Blue</h1>
+    </div>
   )
 }
 

@@ -2,7 +2,10 @@ import React from 'react'
 
 function Pink() {
   return (
-    <div>Pink</div>
+    <div className="pink">
+        <h1>Pink</h1>
+    
+    </div>
   )
 }
 
