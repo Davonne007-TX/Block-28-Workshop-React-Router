@@ -2,7 +2,7 @@ import React from 'react'
 
 function Blue() {
   return (
-    <div id="blue">
+    <div className="blue">
         <h1>Blue</h1>
     </div>
   )
