@@ -5,7 +5,7 @@ import Home from './components/Home'
 import Blue from './components/Blue'
 import Red from './components/Red'
 import Pink from './components/Pink'
-
+import Green from './components/Green'
 
 function App() {
 
@@ -20,6 +20,7 @@ function App() {
             <Route path="/blue" element={<Blue />} />
             <Route path="/red" element={<Red />} />
             <Route path="/pink" element={<Pink />} />
+            <Route path="/green" element={<Green />} />
          </Routes>
         </div>
       </div>

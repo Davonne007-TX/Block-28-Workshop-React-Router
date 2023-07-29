@@ -2,7 +2,9 @@ import React from 'react'
 
 function Green() {
   return (
-    <div>Green</div>
+    <div className="green">
+        <h1>Green</h1>
+    </div>
   )
 }
 

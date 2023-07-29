@@ -10,6 +10,7 @@ function NavBar() {
             <li><Link to="/blue">Blue</Link></li>
             <li><Link to="/red">Red</Link></li>
             <li><Link to="/pink">Pink</Link></li>
+            <li><Link to="/green">Green</Link></li>
         </ul>
     </nav>
   )
