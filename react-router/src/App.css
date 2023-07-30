@@ -5,3 +5,10 @@
   text-align: center;
 }
 
+/*this is for all the pages*/
+h1 {
+  font-family: 'Lilita One', cursive;
+  text-transform: uppercase;
+  font-weight: bold;
+  color: white;
+}
