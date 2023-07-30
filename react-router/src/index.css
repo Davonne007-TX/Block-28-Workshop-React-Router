@@ -61,20 +61,22 @@ body > div {
 
 .red {
   background-color: #B11313;
-  color: white;
 }
 
 .blue {
   background-color: #2B3784;
-  color: white;
+
 }
 
 .pink {
   background-color: #fe81c1;
-  color: white;
 }
 
 .home {
   background-color: #9D67F5;
-  color: white;
+}
+
+.green {
+  background-color: #00D43D;
+
 }
