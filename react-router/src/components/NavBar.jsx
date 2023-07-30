@@ -4,8 +4,10 @@ import './NavBar.css'
 
 function NavBar() {
   return (
-    <nav>
+    <>
+      <nav>
         <ul className="myLinks">
+          <div className="myTitle">My Favorite Colors</div>
             <li><Link to="/home">Home</Link></li>
             <li><Link to="/blue">Blue</Link></li>
             <li><Link to="/red">Red</Link></li>
@@ -13,6 +15,7 @@ function NavBar() {
             <li><Link to="/green">Green</Link></li>
         </ul>
     </nav>
+   </>
   )
 }
 

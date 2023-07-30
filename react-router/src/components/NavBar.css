@@ -1,3 +1,12 @@
+.myTitle {
+    margin-top: 20px;
+    font-family: 'Tektur', cursive;
+    color: black;
+    font-size: 26pt;
+    margin-bottom: 25px;
+}
+    
+
 ul {
     list-style-type: none;
     width: 100%;
@@ -26,7 +35,7 @@ nav{
 }
 
 .myLinks li a:hover {
-    color: purple;
+    color: #D6906D;
   }
 
 
