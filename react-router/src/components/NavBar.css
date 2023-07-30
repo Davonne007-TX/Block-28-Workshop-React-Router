@@ -25,5 +25,10 @@ nav{
     font-size: 22pt;
 }
 
+.myLinks li a:hover {
+    color: purple;
+  }
+
+
 
 
