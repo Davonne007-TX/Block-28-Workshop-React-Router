@@ -38,6 +38,16 @@ nav{
     color: #D6906D;
   }
 
+@media (max-width: 760px) {
+    #navbar {
+        flex-direction: column;
+        padding: 1em;
+    }
 
+    .myLinks li {
+        display: block;
+        padding: 10px;
+    }
+}
 
 

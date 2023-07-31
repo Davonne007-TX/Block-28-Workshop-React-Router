@@ -6,6 +6,7 @@ import Blue from './components/Blue'
 import Red from './components/Red'
 import Pink from './components/Pink'
 import Green from './components/Green'
+import Yellow from './components/Yellow'
 
 function App() {
 
@@ -21,6 +22,7 @@ function App() {
             <Route path="/red" element={<Red />} />
             <Route path="/pink" element={<Pink />} />
             <Route path="/green" element={<Green />} />
+            <Route path="/yellow" element={<Yellow />} />
          </Routes>
         </div>
       </div>

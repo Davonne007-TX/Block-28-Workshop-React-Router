@@ -7,12 +7,13 @@ function NavBar() {
     <>
       <nav>
         <ul className="myLinks">
-          <div className="myTitle">My Favorite Colors</div>
+          <div className="myTitle">Mighty Morphin Power Rangers</div>
             <li><Link to="/home">Home</Link></li>
             <li><Link to="/blue">Blue</Link></li>
             <li><Link to="/red">Red</Link></li>
             <li><Link to="/pink">Pink</Link></li>
             <li><Link to="/green">Green</Link></li>
+            <li><Link to="/yellow">Yellow</Link></li>
         </ul>
     </nav>
    </>
@@ -20,3 +21,5 @@ function NavBar() {
 }
 
 export default NavBar
+
+

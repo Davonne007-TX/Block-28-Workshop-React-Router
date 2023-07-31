@@ -15,13 +15,14 @@
 
 * {
   margin: 0;
+  padding: 0;
+  box-sizing: border-box;
 }
 
 body, html {
   margin: 0;
   padding: 0;
   min-width: 1200px;
-;  
 }
 
 body,
@@ -39,6 +40,7 @@ body > div {
 
 #container > div {
   display: flex;
+  flex-wrap: wrap;
 }
 
 #navbar {
@@ -56,6 +58,9 @@ body > div {
   align-items: center;
   justify-content: center;
   margin-top: 0px;
+  margin-bottom: 20px;
+  border-bottom-right-radius: 20px;
+  border-bottom-left-radius: 20px;
 }
 
 .red {
@@ -64,7 +69,6 @@ body > div {
 
 .blue {
  background-color: #00177d;
-
 }
 
 .pink {
@@ -80,11 +84,14 @@ body > div {
 }
 
 .yellow {
-  background-color: #ffff00;
+  background-color: rgb(255,240,0);
 }
 
 .green {
-  background-color: #00D43D;
+  background-color: #008000 ;
 }
+
+
+
 
 
