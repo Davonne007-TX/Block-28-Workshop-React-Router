@@ -59,11 +59,11 @@ body > div {
 }
 
 .red {
-  background-color: #B11313;
+  background-color: #ff0000;
 }
 
 .blue {
-  background-color: #2B3784;
+ background-color: #00177d;
 
 }
 
@@ -72,9 +72,19 @@ body > div {
 }
 
 .home {
-  background-color: #9D67F5;
+  background-color: black;
+}
+
+.homePage {
+  color: white;
+}
+
+.yellow {
+  background-color: #ffff00;
 }
 
 .green {
   background-color: #00D43D;
 }
+
+
