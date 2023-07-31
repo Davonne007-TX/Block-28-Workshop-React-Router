@@ -4,7 +4,15 @@
     max-width: 300px;
     margin-left: 30px;
 }
-.greenRanger {
+.powerRangerImage {
     width: 100%;
-    max-width: 300px;
+    max-width: 250px;
 }
+
+.redRanger {
+    width: 100%;
+    max-width: 450px;
+    margin-left: 20px;
+}
+
+
