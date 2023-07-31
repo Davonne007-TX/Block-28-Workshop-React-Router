@@ -21,4 +21,30 @@ footer {
     font-family: 'Lilita One', cursive;
 }
 
+.homeLink:hover {
+    color: purple;
+}
+
+.blueLink:hover {
+    color: #00177d;
+}
+
+.redLink:hover {
+    color: #ff0000;
+}
+
+.pinkLink:hover {
+    color: #fe81c1;
+}
+
+.greenLink:hover {
+    color: #008000;
+}
+
+.yellowLink:hover {
+    color: rgb(255,240,0);
+}
+
+
+
 
