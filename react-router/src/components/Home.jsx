@@ -2,10 +2,15 @@ import React from 'react'
 
 function Home() {
   return (
-    <div className="home">
-        <h1 className="homePage">Home</h1>
-    </div>
+   <>
+      <div className="home">
+        <h1>Home</h1>
+       <img src="../public/images/logo.png" className="logo"/>
+     </div>
+   </>
   )
 }
 
 export default Home
+
+
