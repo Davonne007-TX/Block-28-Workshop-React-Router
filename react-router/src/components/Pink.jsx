@@ -5,7 +5,6 @@ function Pink() {
     <div className="pink">
         <h1>Pink</h1>
         <img src="../public/images/pinkRanger.png" className="powerRangerImage"/>
-    
     </div>
   )
 }
