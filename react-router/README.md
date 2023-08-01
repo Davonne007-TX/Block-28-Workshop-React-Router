@@ -1,6 +1,4 @@
 #Block 29: Workshop React Router
 
-    - Overview
-    What We're Building
-    
-    Our goal in the workshop is to build a simple application which navigates between two routes /blue and /red. Each will render a simple component with the background being that specific color.
+ - Using BrowserRouter, Routes, Route, Link
+ - Looking into useParams and useNavigate to implement into workshop 
