@@ -35,3 +35,22 @@ function App() {
 }
 
 export default App
+
+
+
+{
+  /* Lecture Notes - Thursday 7-31
+      - useState, tracks the state. change the state
+      - useEffect = side effects, if state changes, keep track of the state, trigger the useEffect
+      - the difference between controlled forms and uncontrolled form, is the useState
+      
+      - BrowserRower needs to be wrapped in the App
+
+      - look up useParams(), something to do with the parameters. wrapping something 
+      - useNavigate = programmatically, navigate to a page 
+
+
+
+
+  */
+}
