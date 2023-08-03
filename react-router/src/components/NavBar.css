@@ -47,10 +47,12 @@ nav {
         padding: 10px;
     }
 
-    li {
-        margin-left: 40px;
+    .myLinks li a {
+        font-size: 16pt;
     }
 }
+
+
 
 
 

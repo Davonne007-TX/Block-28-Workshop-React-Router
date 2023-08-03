@@ -45,7 +45,7 @@ body > div {
   .container > div { 
     display: flex;
     flex-direction: column;
-    max-width: 500px;
+    max-width: 600px;
     margin: 0 auto;
   }
 
