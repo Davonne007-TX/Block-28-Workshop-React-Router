@@ -15,7 +15,7 @@ function Footer() {
           <button onClick={() => navigate('./blue')} className="blueLink">Blue</button>
           <button onClick={()=> navigate('./red')}  className="redLink">Red</button>
           <button onClick={() => navigate('./pink')} className="pinkLink">Pink</button>
-          <button onClick={() => navigate('./green')} class="greenLink">Green</button>
+          <button onClick={() => navigate('./green')} className="greenLink">Green</button>
           <button onClick={() => navigate('./yellow')} className="yellowLink">Yellow</button>
           </div>
     </footer>

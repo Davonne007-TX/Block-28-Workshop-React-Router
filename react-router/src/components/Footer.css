@@ -22,6 +22,17 @@ footer {
     margin-bottom: 10px;
 }
 
+@media screen and (max-width: 768px) {
+    .navigateButtons {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        width: 100%;
+        gap: 10px;
+    }
+}
+
 .homeLink,
 .blueLink,
 .redLink,

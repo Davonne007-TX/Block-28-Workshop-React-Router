@@ -22,7 +22,7 @@
 body, html {
   margin: 0;
   padding: 0;
-  min-width: 1200px;
+
 }
 
 body,
@@ -37,6 +37,24 @@ body > div {
   display: flex;
   flex-direction: column;
   margin: 0 auto;
+  padding: 2em;
+  max-width: 1200px;
+}
+
+@media only screen and (min-width: 768px ) {
+  .container > div { 
+    display: flex;
+    flex-direction: column;
+    max-width: 500px;
+    margin: 0 auto;
+  }
+
+  .main-section {
+    display: flex;
+    flex-direction: column;
+    max-width: 500px;
+    margin: 0 auto;
+  }
 }
 
 #container > div {
@@ -45,7 +63,7 @@ body > div {
 }
 
 #navbar {
-  padding: 2em;
+  padding: 1em;
   justify-content: space-evenly;
 }
 
