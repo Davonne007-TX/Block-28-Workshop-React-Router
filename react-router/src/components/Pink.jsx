@@ -4,7 +4,7 @@ function Pink() {
   return (
     <div className="pink">
         <h1>Pink</h1>
-        <img src="../public/images/pinkRanger.png" className="powerRangerImage"/>
+        <img src="../public/images/pinkRanger.png" alt="Pink Ranger"className="powerRangerImage"/>
     </div>
   )
 }

@@ -4,7 +4,7 @@ function Green() {
   return (
     <div className="green">
         <h1>Green</h1>
-        <img src="../public/images/greenRanger.png" className="powerRangerImage" />
+        <img src="../public/images/greenRanger.png" alt="Green Ranger" className="powerRangerImage" />
     </div>
   )
 }
