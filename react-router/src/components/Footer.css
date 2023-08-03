@@ -17,7 +17,7 @@ footer {
 /*buttons*/
 .navigateButtons {
     display: flex;
-    gap: 50px;
+    gap: 60px;
     justify-content: center;
     margin-bottom: 10px;
 }
@@ -44,7 +44,7 @@ footer {
     background-color: black;
     cursor: pointer;
     font-family: 'Lilita One', cursive;
-    font-size: 14pt;
+    font-size: 13pt;
 }
 
 .homeLink:hover {

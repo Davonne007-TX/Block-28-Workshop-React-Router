@@ -6,6 +6,7 @@
     margin-bottom: 25px;
 }
 
+/*Links*/
 ul {
     list-style-type: none;
     width: 100%;
@@ -37,20 +38,18 @@ nav {
 }
 
 @media (max-width: 760px) {
-    #navbar {
-        flex-direction: column;
-        padding: 1em;
-    }
-
     .myLinks li {
         display: block;
         padding: 10px;
-    }
+    } 
 
     .myLinks li a {
         font-size: 16pt;
     }
 }
+
+
+
 
 
 
