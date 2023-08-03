@@ -17,7 +17,7 @@ footer {
 /*buttons*/
 .navigateButtons {
     display: flex;
-    gap: 60px;
+    gap: 50px;
     justify-content: center;
     margin-bottom: 10px;
 }
