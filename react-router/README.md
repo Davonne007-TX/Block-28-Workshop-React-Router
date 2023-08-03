@@ -1,4 +1,5 @@
-#Block 29: Workshop React Router
+#Block 29: Workshop React Router - Power Rangers
 
- - Using BrowserRouter, Routes, Route, Link
- - Looking into useParams and useNavigate to implement into workshop 
+ - Using BrowserRouter, Routes, Route, Link, and useNavigate
+ 
+ 
