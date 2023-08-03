@@ -14,11 +14,26 @@ footer {
     border-bottom-left-radius: 20px;
 }
 
-.footerLinks li a {
-    color: black;
-    text-decoration: none;
-    font-size: 16pt;
+/*buttons*/
+.navigateButtons {
+    display: flex;
+    gap: 60px;
+    justify-content: center;
+    margin-bottom: 10px;
+}
+
+.homeLink,
+.blueLink,
+.redLink,
+.pinkLink,
+.greenLink,
+.yellowLink {
+    padding: 8px;
+    border-radius: 10px;
+    background-color: black;
+    cursor: pointer;
     font-family: 'Lilita One', cursive;
+    font-size: 14pt;
 }
 
 .homeLink:hover {
@@ -26,7 +41,7 @@ footer {
 }
 
 .blueLink:hover {
-    color: #00177d;
+    color:#0000FF;
 }
 
 .redLink:hover {
@@ -44,6 +59,11 @@ footer {
 .yellowLink:hover {
     color: rgb(255,240,0);
 }
+
+
+
+
+
 
 
 
