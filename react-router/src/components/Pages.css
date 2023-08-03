@@ -8,6 +8,13 @@
     max-width: 250px;
 }
 
+@media screen and (max-width: 768px) {
+  .powerRangerImage {
+    width: 100%;
+    max-width: 120px;
+  }
+}
+
 .redRanger {
     width: 100%;
     max-width: 450px;
