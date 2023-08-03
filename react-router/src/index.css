@@ -22,7 +22,6 @@
 body, html {
   margin: 0;
   padding: 0;
-
 }
 
 body,
@@ -69,6 +68,7 @@ body > div {
 
 #main-section {
   flex-grow: 1;
+  background-color: blueviolet;
 }
 
 #main-section > div {
