@@ -1,59 +1,50 @@
 .myTitle {
-    margin-top: 20px;
-    font-family: 'Tektur', cursive;
-    color: black;
-    font-size: 26pt;
-    margin-bottom: 25px;
+  margin-top: 40px;
+  font-family: "Tektur", cursive;
+  color: black;
+  font-size: 26pt;
+  padding: 10px;
 }
 
 /*Links*/
 ul {
-    list-style-type: none;
-    width: 100%;
-    margin: 20px;
+  list-style-type: none;
+  width: 100%;
+  margin: 20px;
 }
 
 li {
-    display: inline;
-    padding: 20px;
-    margin-top: 20px;
+  display: inline;
+  padding: 20px;
+  margin-top: 20px;
 }
 
 nav {
-    width: 100%;
-    background-color: #D3D3D3;
-    height: auto;
-    border-top-left-radius: 20px;
-    border-top-right-radius: 20px;
+  width: 100%;
+  background-color: #d3d3d3;
+  height: auto;
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
 }
 
-.myLinks li a  {
-    color: black;
-    font-family: 'Tektur', cursive;
-    font-size: 22pt;
+.myLinks li a {
+  color: black;
+  font-family: "Tektur", cursive;
+  font-size: 22pt;
+  padding: 10px;
 }
 
 .myLinks li a:hover {
-    color: brown;
+  color: brown;
 }
 
 @media (max-width: 760px) {
-    .myLinks li {
-        display: block;
-        padding: 10px;
-    } 
+  .myLinks li {
+    display: block;
+    padding: 10px;
+  }
 
-    .myLinks li a {
-        font-size: 16pt;
-    }
+  .myLinks li a {
+    font-size: 16pt;
+  }
 }
-
-
-
-
-
-
-
-
-
-
